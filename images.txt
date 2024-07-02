@@ -1,1 +1,1 @@
-nginx:1.17
+canal/canal-server:v1.1.4
