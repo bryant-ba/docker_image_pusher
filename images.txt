@@ -1,1 +1,1 @@
-canal/canal-server:v1.1.4
+envoyproxy/gateway:v1.0.2
