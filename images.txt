@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.3.3
+rancher/gitjob:v0.8.8
