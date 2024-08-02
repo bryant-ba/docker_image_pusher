@@ -1,5 +1,1 @@
-node:20
-nginx:latest
-golang:1.22
-alpine:latest
-node:20-alpine
+corentinth/it-tools:latest
