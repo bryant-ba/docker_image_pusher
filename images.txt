@@ -1,1 +1,1 @@
-node:lts
+airdock/oraclejdk:1.8
