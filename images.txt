@@ -1,2 +1,1 @@
-nacos/nacos-peer-finder-plugin:1.1
-nacos/nacos-server:v2.2.3
+ghcr.io/anthropics/anthropic-quickstarts:computer-use-demo-latest
