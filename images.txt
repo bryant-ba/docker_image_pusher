@@ -1,1 +1,3 @@
-apitable/gateway:latest
+apitable/databus-server:latest
+apitable/imageproxy-server:latest
+apitable/init-appdata:latest
