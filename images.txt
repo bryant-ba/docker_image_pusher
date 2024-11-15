@@ -1,12 +1,4 @@
-docker.io/apitable/backend-server:latest
-docker.io/apitable/openresty:latest
-docker.io/apitable/init-db:latest
-docker.io/apitable/room-server:latest
-docker.io/apitable/web-server:latest
-docker.io/apitable/databus-server:latest
-docker.io/apitable/imageproxy-server:latest
-docker.io/apitable/init-appdata:latest
-docker.io/minio/minio:RELEASE.2023-01-25T00-19-54Z
-docker.io/mysql:8.0.32
-docker.io/rabbitmq:3.11.9-management
-docker.io/redis:7.0.8
+minio:RELEASE.2023-01-25T00-19-54Z
+mysql:8.0.32
+rabbitmq:3.11.9-management
+redis:7.0.8
