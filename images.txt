@@ -1,1 +1,1 @@
-redis:5.0.11
+pixelstreamingunofficial/pixel-streaming-signalling-server:5.5
