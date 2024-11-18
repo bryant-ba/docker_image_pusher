@@ -1,1 +1,1 @@
-pixelstreamingunofficial/pixel-streaming-signalling-server:5.5
+pixelstreamingunofficial/pixel-streaming-signalling-server:5.4
