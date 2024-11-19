@@ -1,1 +1,1 @@
-ghcr.io/epicgames/unreal-engine:5.4.3
+nvidia/cuda:12.6.2-cudnn-runtime-ubuntu22.04
