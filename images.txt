@@ -1,1 +1,1 @@
-pixelstreamingunofficial/pixel-streaming-signalling-server:5.4
+ghcr.io/epicgames/unreal-engine:5.4.3
