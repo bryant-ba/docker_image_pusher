@@ -1,1 +1,1 @@
-alibabadragonwell/dragonwell:21-ubuntu
+python:3.9-slim
