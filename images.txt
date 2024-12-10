@@ -1,1 +1,1 @@
-python:3.12-slim
+docker.io/istio/pilot:1.22.0
