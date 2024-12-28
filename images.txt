@@ -1,1 +1,1 @@
-python:3.12.8-bullseye
+python:3.12.8
