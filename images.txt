@@ -1,1 +1,2 @@
-python:3.12.8
+golang:1.22
+gcr.io/distroless/static:nonroot
