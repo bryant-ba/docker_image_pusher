@@ -1,1 +1,1 @@
-onlyoffice/documentserver:8.2
+quay.io/solo-io/gloo:1.18.4
