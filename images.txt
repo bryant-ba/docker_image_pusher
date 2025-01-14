@@ -1,1 +1,1 @@
-alpine/git:v2.36.3
+treeNode:20-slim
