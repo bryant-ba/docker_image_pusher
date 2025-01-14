@@ -1,1 +1,2 @@
-treeNode:20-slim
+node:20-alpine
+nginx:stable-alpine
