@@ -1,2 +1,2 @@
-node:20-alpine
-nginx:stable-alpine
+alpine:3.18
+node:18-alpine
