@@ -1,6 +1,3 @@
-bitnami/minio:2024.4.18-debian-12-r0
-bitnami/postgresql:16.3.0-debian-12-r4
-bitnami/redis:7.2.4-debian-12-r13
-langgenius/dify-web:d172c30ee318ac1acf368b3b7dbca05ca03277aa
-langgenius/dify-api:d172c30ee318ac1acf368b3b7dbca05ca03277aa
-langgenius/dify-sandbox:0.2.10
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+quay.io/coreos/etcd:v3.5.5
+milvusdb/milvus:v2.4.3
