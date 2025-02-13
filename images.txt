@@ -1,1 +1,1 @@
-node:22.13.1
+chatgptweb/chatgpt-web:latest
