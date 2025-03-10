@@ -1,2 +1,3 @@
-busybox:stable
-redis:6.0.8
+milvusdb/milvus:v2.4.8
+xixihahaliu01/qanything-linux:v1.5.1
+docker.elastic.co/elasticsearch/elasticsearch:8.13.2
