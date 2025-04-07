@@ -1,1 +1,1 @@
-milvus/milvus:v2.5.6
+langgenius/dify-plugin-daemon:0.0.6-local
