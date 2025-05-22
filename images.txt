@@ -1,7 +1,1 @@
-quay.io/jupyterhub/k8s-network-tools:set-by-chartpress
-quay.io/jupyterhub/k8s-singleuser-sample:set-by-chartpress
-registry.k8s.io/pause:3.10
-quay.io/jupyterhub/k8s-image-awaiter:set-by-chartpress
-quay.io/jupyterhub/k8s-hub:set-by-chartpress
-quay.io/jupyterhub/configurable-http-proxy:4.6.3
-registry.k8s.io/kube-scheduler:v1.30.11
+linuxserver/wps-office:chinese
