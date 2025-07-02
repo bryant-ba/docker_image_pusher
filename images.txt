@@ -1,1 +1,2 @@
-linuxserver/wps-office:chinese
+apromore/opensource:8.1
+mysql:8
