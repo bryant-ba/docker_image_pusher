@@ -1,2 +1,1 @@
-apromore/opensource:8.1
-mysql:8
+leezhuuu/code_interpreter:1.0.2
