@@ -1,1 +1,2 @@
-python:3.10-slim-bookworm
+openmetadata/server:1.8.6
+openmetadata/ingestion:1.8.6
