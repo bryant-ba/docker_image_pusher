@@ -1,1 +1,1 @@
-jenkins/jenkins:2.523
+openmetadata/ingestion:1.9.1
