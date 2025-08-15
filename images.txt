@@ -1,1 +1,1 @@
-golang:1.22-alpine
+jenkins/jenkins:latest
