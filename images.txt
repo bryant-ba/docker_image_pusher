@@ -1,1 +1,13 @@
-openmetadata/ingestion:1.9.1
+supabase/studio:2025.06.30-sha-6f5982d
+kong:2.8.1
+supabase/gotrue:v2.177.0
+postgrest/postgrest:v12.2.12
+supabase/realtime:v2.34.47
+supabase/storage-api:v1.25.7
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.91.0
+supabase/edge-runtime:v1.67.4
+supabase/logflare:1.14.2
+supabase/postgres:15.8.1.060
+timberio/vector:0.28.1-alpine
+supabase/supavisor:2.5.7
