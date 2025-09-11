@@ -1,1 +1,2 @@
-openspug/spug-service:latest
+hhyo/archery-base:sha-d8159f4
+library/python:3.11-bullseye
