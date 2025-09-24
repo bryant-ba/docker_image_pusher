@@ -1,1 +1,1 @@
-redis/redis-stack:latest
+python:3.10.13-slim
