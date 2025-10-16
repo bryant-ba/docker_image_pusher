@@ -1,1 +1,1 @@
-redis:5.0.11
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
