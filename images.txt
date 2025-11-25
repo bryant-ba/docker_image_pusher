@@ -1,1 +1,1 @@
-mysql:8.0.19
+jupyter/datascience-notebook:latest
