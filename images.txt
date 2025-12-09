@@ -1,1 +1,1 @@
-alpine/curl
+python:3.12.12
