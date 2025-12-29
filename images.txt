@@ -1,2 +1,1 @@
-nacos-peer-finder-plugin:1.1
-nacos-server:v2.2.3
+quay.io/external_storage/nfs-client-provisioner:latest
