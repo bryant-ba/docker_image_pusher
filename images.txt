@@ -1,1 +1,1 @@
-cooderl/wewe-rss:v2.6.1
+nocodb/nocodb:latest
