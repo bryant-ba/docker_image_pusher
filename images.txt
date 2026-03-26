@@ -1,3 +1,5 @@
 ghcr.io/iflytek/skillhub-server:edge
 ghcr.io/iflytek/skillhub-web:edge
 ghcr.io/iflytek/skillhub-scanner:edge
+
+
