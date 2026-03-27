@@ -1,5 +1,2 @@
-ghcr.io/iflytek/skillhub-server:edge
-ghcr.io/iflytek/skillhub-web:edge
-ghcr.io/iflytek/skillhub-scanner:edge
-
-
+eclipse-temurin:21-jre-alpine
+eclipse-temurin:21-jdk-alpine
