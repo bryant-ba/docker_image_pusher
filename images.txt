@@ -1,3 +1,1 @@
-redis:latest
-pgvector/pgvector:pg16
-ghcr.io/toeverything/affine:stable
+node:22-bookworm-slim
