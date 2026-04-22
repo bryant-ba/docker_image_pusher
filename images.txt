@@ -1,1 +1,3 @@
+redis:latest
+pgvector/pgvector:pg16
 ghcr.io/toeverything/affine:stable
